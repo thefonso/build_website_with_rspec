@@ -1,7 +1,7 @@
 # This is a simple website Kata
-# It shows how to make simple form,
-# Create links to other pages and...
-# It also shows how to write basic tests TDD style
+It will show how to make simple form,
+Create links to other pages and...
+It will also show how to write basic tests TDD style.
 
  Simple company website:
  
