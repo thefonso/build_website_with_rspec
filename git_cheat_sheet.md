@@ -36,9 +36,6 @@ updates your local repo with server repo.
 
 git remote add
 
-gpush lives in .bash_profile
-
-useful tool: gitolite (google is your friend)
 
 
 WORKFLOW - single user:
@@ -50,7 +47,7 @@ for the first time
     git commit -am "message here" -- commit changes to branch
     git remote add origin git@github.com:<username>/app_name.git
     git push origin master-- upload files to remote server
-    git push heroku-cedar master - push app to H (thefonso)
+    git push heroku-cedar master - push app to Heroku
 
 
 rinse and repeat
