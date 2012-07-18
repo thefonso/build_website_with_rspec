@@ -90,5 +90,7 @@ http://rubydoc.info/gems/rspec-mocks/#Setting_Responses
 
 http://rubydoc.info/gems/rspec-core/#nested_groups
 
+http://rubydoc.info/gems/rspec-rails/frames
+
 
 
