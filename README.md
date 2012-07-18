@@ -1,7 +1,7 @@
 # This is a simple 'RSpec in Rails' website Kata
-It will show how to make simple form,
-Create links to other pages and
-It will also show how to write basic tests TDD style.
+We will review how to check for the existence of, pages, images, a form and form elements, that will exist in this app.
+
+Test will be done TDD style.
 
 "Fork" this code to begin.
 
