@@ -78,13 +78,17 @@ Now we will begin building our app starting with thinking about each test in our
 
 See the git cheat sheet in this repo.
 
+    https://github.com/thefonso/class_website/blob/master/git_cheat_sheet.md
+
+
+
 Also it's suggested that you keep the RSpec documentation on hand in a browser tab.
 
-http://rubydoc.info/gems/rspec-expectations
+    http://rubydoc.info/gems/rspec-expectations
 
-http://rubydoc.info/gems/rspec-mocks/#Setting_Responses
+    http://rubydoc.info/gems/rspec-mocks/#Setting_Responses
 
-http://rubydoc.info/gems/rspec-core/#nested_groups
+    http://rubydoc.info/gems/rspec-core/#nested_groups
 
 
 
