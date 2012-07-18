@@ -1,9 +1,19 @@
-# This is a simple website Kata
+# This is a simple 'RSpec in Rails' website Kata
 It will show how to make simple form,
-Create links to other pages and...
+Create links to other pages and
 It will also show how to write basic tests TDD style.
 
- Simple company website:
+"Fork" this code to begin.
+
+Then add this to your gemfile and run bundle install
+
+    group :development do
+      gem "rspec-rails", ">= 2.10.0" 
+      # gem "webrat", ">= 0.7.2" 
+    end
+
+
+Simple company website:
  
     I want a company logo
     I want a picture of the company building
@@ -62,4 +72,19 @@ Part3 - We can split our "it should do" statements up like so...
 Part4 - Replace the Pending code with working code
 
 Now we will begin building our app starting with thinking about each test in our app...making a failing test (red)...making it pass (green) and so on until each test passes...after which we will have a self documenting app that will be a LOT more easily maintained over the course of it's lifetime.
+
+
+#Resources:
+
+See the git cheat sheet in this repo.
+
+Also it's suggested that you keep the RSpec documentation on hand in a browser tab.
+
+http://rubydoc.info/gems/rspec-expectations
+
+http://rubydoc.info/gems/rspec-mocks/#Setting_Responses
+
+http://rubydoc.info/gems/rspec-core/#nested_groups
+
+
 
